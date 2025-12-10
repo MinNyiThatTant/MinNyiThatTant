@@ -3,7 +3,6 @@
 </div>
 
 <div align="center">
-  <img src="image/NWT photo.JPG" alt="Profile Picture" width="150px" style="border-radius: 50%; border: 4px solid #1a73e8;">
   
   # 👋 Hello | မင်္ဂလာပါ
   
