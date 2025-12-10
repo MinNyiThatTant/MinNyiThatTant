@@ -50,5 +50,4 @@
     <img src="https://img.shields.io/badge/Microsoft_365-0078D4?style=for-the-badge&logo=microsoft-office&logoColor=white" alt="Microsoft 365">
     <img src="https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=Raspberry-Pi&logoColor=white" alt="Raspberry Pi">
   </p>
-
 </div>
