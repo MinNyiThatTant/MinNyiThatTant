@@ -1,8 +1,9 @@
 <div align="center">
-  <img src="image/My Family.jfif" alt="MinNyiThatTant Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=MinNyiThatTant&label=Profile%20views&color=0e75b6&style=flat" alt="MinNyiThatTant Profile views" />
 </div>
 
 <div align="center">
+  <img src="image/My Family.jfif" alt="My Family Photo" width="150px" style="border-radius: 50%; border: 4px solid #1a73e8; object-fit: cover;">
   
   # 👋 Hello | မင်္ဂလာပါ
   
