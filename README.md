@@ -38,7 +38,7 @@
 ---
 
 <div align="center">
-  <h3>🛠️ အဓိက အသုံးပြုသော နည်းပညာများ</h3>
+  <h3>🛠️ အဓိက အသုံးပြုလေ့လာနေသော နည်းပညာများ</h3>
   
   <p>
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
