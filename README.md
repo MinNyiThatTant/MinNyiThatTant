@@ -6,10 +6,10 @@
   
   # 👋 Hello | မင်္ဂလာပါ
   
-  ### Full-Stack Cloud Developer & Microsoft Learn Student Instructor
+  ### Computer Engineering and Information Technology with Microsoft Learn Student Instructor
   
   <p>
-    Web, Cloud Application, RaspberryPi, IoT Security Fields များ၌ အတွေ့အကြုံရယူ၍ Microsoft Learn Student Instructor အဖြစ် လုပ်ဆောင်နေသူတစ်ဦးဖြစ်သည်။
+    Web, Cloud Application, RaspberryPi, IoT Security Fields များ၌ အတွေ့အကြုံရယူ၍ Microsoft Learn Student Instructor အဖြစ်လုပ်ဆောင်နေသူတစ်ဦးဖြစ်သည်။
   </p>
   
   <a href="https://github.com/MinNyiThatTant" target="_blank">
@@ -46,7 +46,8 @@
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
     <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase">
     <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Google Cloud">
-    <img src="https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure">
+    <img src="https://img.shields.io/badge/Microsoft_365-0078D4?style=for-the-badge&logo=microsoft-office&logoColor=white" alt="Microsoft 365">
+    <img src="https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=Raspberry-Pi&logoColor=white" alt="Raspberry Pi">
   </p>
 
 </div>
