@@ -26,7 +26,7 @@
 
 ### 📚 Tech Contents & Playlists
 
-| သင်ခန်းစာ ခေါင်းစဉ် | အနှစ်ချုပ် (Summary) | Link |
+| သင်ခန်းစာများ | ‌အကြောင်းအရာ | Link |
 | :--- | :--- | :---: |
 | **Microsoft 365 Apps များ Course** | Office 365 ၏ အခြေခံနှင့် အဆင့်မြင့် လုပ်ဆောင်ချက်များကို လေ့လာပါ။ | [▶️ Playlist](https://www.youtube.com/watch?v=gXNpAa1tkDg&list=PLJ7KN4PdFSoEHOtd28fBnWvKtdrm4DtNQ) |
 | **Microsoft 365 Admin Center** | Microsoft 365 Admin Center ကို စတင်အသုံးပြုနည်းများနှင့် စီမံခန့်ခွဲမှုများ။ | [▶️ Playlist](https://www.youtube.com/watch?v=5aR4DZ3ovFo&list=PLJ7KN4PdFSoGkIgCAK3_ydVmuqmW7Nngz) |
