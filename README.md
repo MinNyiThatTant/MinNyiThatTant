@@ -28,9 +28,9 @@
 
 | သင်ခန်းစာများ | ‌အကြောင်းအရာ | Link |
 | :--- | :--- | :---: |
-| **Microsoft 365 Apps Courseများ** | Office 365 ၏ အခြေခံနှင့် အဆင့်မြင့် လုပ်ဆောင်ချက်များကို လေ့လာပါ။ | [▶️ Playlist](https://www.youtube.com/watch?v=gXNpAa1tkDg&list=PLJ7KN4PdFSoEHOtd28fBnWvKtdrm4DtNQ) |
+| **Microsoft 365 Apps Course များ** | Office 365 ၏ အခြေခံနှင့် အဆင့်မြင့် လုပ်ဆောင်ချက်များကို လေ့လာရန် | [▶️ Playlist](https://www.youtube.com/watch?v=gXNpAa1tkDg&list=PLJ7KN4PdFSoEHOtd28fBnWvKtdrm4DtNQ) |
 | **Microsoft 365 Admin Center** | Microsoft 365 Admin Center ကို စတင်အသုံးပြုနည်းများနှင့် စီမံခန့်ခွဲမှုများ။ | [▶️ Playlist](https://www.youtube.com/watch?v=5aR4DZ3ovFo&list=PLJ7KN4PdFSoGkIgCAK3_ydVmuqmW7Nngz) |
-| **Cisco Packet Tracer သင်ခန်းစာများ** | Cisco Packet Tracer ကို အသုံးပြုပြီး Network Simulation ပြုလုပ်နည်းများကို လေ့လာပါ။ | [▶️ Playlist](https://www.youtube.com/watch?v=JGfhHznhdaw&list=PLJ7KN4PdFSoH3IWV32t9uBnpV2dXlsNE-) |
+| **Cisco Packet Tracer သင်ခန်းစာများ** | Cisco Packet Tracer ကို အသုံးပြုပြီး Network Simulation ပြုလုပ်နည်းများကို လေ့လာရန် | [▶️ Playlist](https://www.youtube.com/watch?v=JGfhHznhdaw&list=PLJ7KN4PdFSoH3IWV32t9uBnpV2dXlsNE-) |
 
 ---
 
