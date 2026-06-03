@@ -32,6 +32,7 @@
 | **Microsoft 365 Admin Center** | Microsoft 365 Admin Center ကို စတင်အသုံးပြုနည်းများနှင့် စီမံခန့်ခွဲမှုများ။ | [▶️ Playlist](https://www.youtube.com/watch?v=5aR4DZ3ovFo&list=PLJ7KN4PdFSoGkIgCAK3_ydVmuqmW7Nngz) |
 | **Cisco Packet Tracer သင်ခန်းစာများ** | Cisco Packet Tracer ကို အသုံးပြုပြီး Network Simulation ပြုလုပ်နည်းများကို လေ့လာရန် | [▶️ Playlist](https://www.youtube.com/watch?v=JGfhHznhdaw&list=PLJ7KN4PdFSoH3IWV32t9uBnpV2dXlsNE-) |
 | **Computer Operating Systems-OS Course** | Computer Operating System OS အကြောင်းအရာများကို စာတွေ့အသေးစိတ်လေ့လာရန် | [▶️ Playlist](https://www.youtube.com/watch?v=hHulErtgOKo&list=PLJ7KN4PdFSoE2fEh7QVR9AaGNJINXzw5J&index=3) |
+| **Artificial Intelligence** | AI အကြောင်းသိကောင်းစရာများ | [▶️ Playlist](https://www.youtube.com/watch?v=g2Ode5JN-Bo&list=PLJ7KN4PdFSoET6TaQuX7ejDZPMTCm6UO5) |
 
 ---
 
