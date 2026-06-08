@@ -18,7 +18,7 @@
   
   <hr>
   
-  <h2 id="youtube-content">📺 မင်းညီသက်တံ့ Youtube Channel မှ သင်ခန်းစာများ</h2>
+  <h2 id="youtube-content">Lessons from မင်းညီသက်တံ့ Youtube Channel</h2>
 
 </div>
 
