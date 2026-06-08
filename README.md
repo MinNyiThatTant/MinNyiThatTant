@@ -1,7 +1,7 @@
 <div align="center">
   <img src="image/My Family.jfif" alt="My Family Photo" width="150px" style="border-radius: 50%; border: 4px solid #1a73e8; object-fit: cover;">
   
-  # 👋 Hello | မင်္ဂလာပါ
+  # Hello | မင်္ဂလာပါ
   
   ### Computer Engineering and Information Technology
   
@@ -24,7 +24,7 @@
 
 ---
 
-### 📚 Tech Contents & Playlists
+### Tech Contents & Playlists
 
 | သင်ခန်းစာများ | ‌အကြောင်းအရာ | Link |
 | :--- | :--- | :---: |
