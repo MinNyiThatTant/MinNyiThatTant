@@ -6,7 +6,7 @@
   ### Computer Engineering and Information Technology
   
   <p>
-    Web, Cloud Application, RaspberryPi, AI, IoT Security Fieldsများ၌ အတွေ့အကြုံရယူ၍ Microsoft Learn Student Instructor အဖြစ်လုပ်ဆောင်နေသူ။
+    Microsoft Learn Student Instructor with hands-on experience in Web Development | Cloud Computing | AI | Raspberry Pi | IoT Security.
   </p>
   
   <a href="https://github.com/MinNyiThatTant" target="_blank">
