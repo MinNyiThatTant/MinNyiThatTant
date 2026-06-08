@@ -22,8 +22,6 @@
 
 </div>
 
----
-
 ### Tech Contents & Playlists
 
 | သင်ခန်းစာများ | ‌အကြောင်းအရာ | Link |
