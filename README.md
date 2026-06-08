@@ -22,8 +22,6 @@
 
 </div>
 
-### Tech Contents & Playlists
-
 | သင်ခန်းစာများ | ‌အကြောင်းအရာ | Link |
 | :--- | :--- | :---: |
 | **Microsoft 365 Apps Course များ** | Office 365 ၏ အခြေခံနှင့် အဆင့်မြင့် လုပ်ဆောင်ချက်များကို လေ့လာရန် | [▶️ Playlist](https://www.youtube.com/watch?v=gXNpAa1tkDg&list=PLJ7KN4PdFSoEHOtd28fBnWvKtdrm4DtNQ) |
